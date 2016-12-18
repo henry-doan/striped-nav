@@ -24,28 +24,37 @@ body {
 }
 
 .flex-wrapper .one {
-	background-image: url('img/artur-pokusin.jpg');
+	background-image: url('http://res.cloudinary.com/doan/image/upload/v1482039943/artur-pokusin_ekeuqy.jpg');
 	background-color: seablue;
+	background-size: 1200px 800px;
 }
 
 .flex-wrapper .two {
-	background-image: url('img/buzz-andersen.jpg');
+	background-image: url('http://res.cloudinary.com/doan/image/upload/v1482039861/buzz-andersen_fy8fph.jpg');
 	background-color: seablue;
+	background-size: 1200px 800px;
+
 }
 
 .flex-wrapper .three {
-	background-image: url('img/john-towner.jpg');
+	background-image: url('http://res.cloudinary.com/doan/image/upload/v1482040340/a3owknpciq8-alexandre-chambon_cjp338.jpg');
 	background-color: seablue;
+	background-size: 1200px 800px;
+
 }
 
 .flex-wrapper .four {
-	background-image: url('img/tom-van-hoogstraten.jpg');
+	background-image: url('http://res.cloudinary.com/doan/image/upload/v1482039905/tom-van-hoogstraten_kmi48r.jpg');
 	background-color: seablue;
+	background-size: 1200px 800px;
+
 }
 
 .flex-wrapper .five {
-	background-image: url('img/wilson-ye.jpg');
+	background-image: url('http://res.cloudinary.com/doan/image/upload/v1482039951/wilson-ye_vwnwgh.jpg');
 	background-color: seablue;
+	background-size: 1200px 800px;
+
 }
 
 .flex-wrapper a:hover {
@@ -98,7 +107,7 @@ body {
   .flex-wrapper a:hover {
     flex: 1;
   }
-   
+  
   .flex-wrapper a:hover .overlay {
     background-color: transparent;
   }
